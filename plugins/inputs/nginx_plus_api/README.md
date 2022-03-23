@@ -226,7 +226,6 @@ Nginx Plus is a commercial version of the open source web server Nginx. The use 
   - port
   - limit
 
-
 ## Example Output
 
 Using this configuration:
