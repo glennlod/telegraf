@@ -239,7 +239,7 @@ It produces:
 > nginx_plus_api_slabs_pages,port=80,source=demo.nginx.com,zone=trac.nginx.org used=3i,free=500i 1570696322000000000
 > nginx_plus_api_slabs_slots,port=80,source=demo.nginx.com,zone=hg.nginx.org,slot=8 used=1i,free=503i,reqs=10i,fails=0i 1570696322000000000
 > nginx_plus_api_slabs_slots,port=80,source=demo.nginx.com,zone=hg.nginx.org,slot=16 used=3i,free=500i,reqs=1024i,fails=0i 1570696322000000000
-> nginx_plus_api_slabs_slots,port=80,source=demo.nginx.com,zone=trac.nginx.org,slot=8 used=1i,free=503i,reqs=10i,fails=0i 1570696322000000000
+> nginx_plus_api_slabs_slots,port=80,source=demo.nginx.com,zone=trac.nginx.org,slot=8 used=1i,free=502i,reqs=10i,fails=0i 1570696322000000000
 > nginx_plus_api_slabs_slots,port=80,source=demo.nginx.com,zone=trac.nginx.org,slot=16 used=0i,free=1520i,reqs=0i,fails=1i 1570696322000000000
 > nginx_plus_api_ssl,port=80,source=demo.nginx.com handshakes=9398978i,handshakes_failed=289353i,session_reuses=1004389i 1570696322000000000
 > nginx_plus_api_http_requests,port=80,source=demo.nginx.com current=51i,total=264649353i 1570696322000000000
