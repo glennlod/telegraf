@@ -104,7 +104,7 @@ get in touch with the package author if support is needed:
 ## Getting Started
 
 See usage with:
- 
+
 ```shell
 telegraf --help
 ```
